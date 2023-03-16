@@ -16,7 +16,7 @@ function filterList(list, query) {
   
       Ask the TAs if you need help with this
     */
-}
+} 
 
 async function mainEvent() {
   // the async keyword means we can make API requests
